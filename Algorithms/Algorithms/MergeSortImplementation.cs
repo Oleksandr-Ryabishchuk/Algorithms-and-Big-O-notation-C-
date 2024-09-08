@@ -4,6 +4,7 @@ using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace MergeSort
 {
@@ -25,25 +26,24 @@ namespace MergeSort
             }
         }
 
-        public static void Merge(int[] unsortedArray, int start, int middle, int end)
+        private static void Merge(int[] unsortedArray, int start, int middle, int end)
         {
             int leftIndex = middle - start + 1;
             int rightIndex = end - middle;
 
             int[] leftArray = new int[leftIndex];
             int[] rightArray = new int[rightIndex];
-            int i, j;// Initial indexes of first
-                     // and second subarrays
+            int i, j;
+            // Initial indexes of first
+            // and second subarrays
 
-            for (i = 0; i < leftIndex; ++i)
-                leftArray[i] = unsortedArray[leftIndex + i];
-            for (j = 0; j < rightIndex; ++j)
-                rightArray[j] = unsortedArray[middle + 1 + j];
+            Array.Copy(unsortedArray, start, leftArray, 0, leftIndex);
+            Array.Copy(unsortedArray, middle + 1, rightArray, 0, rightIndex);
 
             i = 0;
             j = 0;
 
-            int mergedIndex = leftIndex;
+            int mergedIndex = start;
 
             while (i < leftIndex && j < rightIndex)
             {
@@ -58,7 +58,7 @@ namespace MergeSort
                     j++;
                 }
                 mergedIndex++;
-            }
+            }   
 
             while (i < leftIndex)
             {
