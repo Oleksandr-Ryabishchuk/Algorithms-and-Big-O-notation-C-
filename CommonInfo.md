@@ -20,7 +20,3 @@ O(N^3) – cubic time complexity. The time required to run the algorithm increas
 O(2^N) - in this case, the input is power for 2. This means, that an increase in input increases time needed for operation exponentially.
 
 O(N!) – worst complexity. This means that the time required to run the algorithm increases factorially with the size of the input. For example, if the input is 5 then the number of operations will be equal to 5 x 4 x 3 x 2 x 1
-
-
-
-
