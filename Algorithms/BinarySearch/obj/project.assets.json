@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\BinarySearch\\BinarySearch.csproj",
-      "projectName": "BinarySearch",
-      "projectPath": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\BinarySearch\\BinarySearch.csproj",
+      "projectUniqueName": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\BinarySearch\\IterativeBinarySearch.csproj",
+      "projectName": "IterativeBinarySearch",
+      "projectPath": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\BinarySearch\\IterativeBinarySearch.csproj",
       "packagesPath": "C:\\Users\\ryabi\\.nuget\\packages\\",
       "outputPath": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\BinarySearch\\obj\\",
       "projectStyle": "PackageReference",

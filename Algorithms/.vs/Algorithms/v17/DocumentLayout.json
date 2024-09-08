@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{647BCCEE-0C08-4FE3-84B0-60AB2B8A9886}|Algorithms\\MergeSort.csproj|e:\\projects\\algorithms\\algorithms-and-big-o-notation-c-\\algorithms\\algorithms\\mergesort.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{647BCCEE-0C08-4FE3-84B0-60AB2B8A9886}|Algorithms\\MergeSort.csproj|solutionrelative:algorithms\\mergesort.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DCF36306-CBF8-4E6C-939E-2F7BA4DD4D8A}|BinarySearch\\BinarySearch.csproj|e:\\projects\\algorithms\\algorithms-and-big-o-notation-c-\\algorithms\\binarysearch\\binarysearchimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCF36306-CBF8-4E6C-939E-2F7BA4DD4D8A}|BinarySearch\\BinarySearch.csproj|solutionrelative:binarysearch\\binarysearchimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{647BCCEE-0C08-4FE3-84B0-60AB2B8A9886}|Algorithms\\MergeSort.csproj|e:\\projects\\algorithms\\algorithms-and-big-o-notation-c-\\algorithms\\algorithms\\mergesortimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{647BCCEE-0C08-4FE3-84B0-60AB2B8A9886}|Algorithms\\MergeSort.csproj|solutionrelative:algorithms\\mergesortimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{647BCCEE-0C08-4FE3-84B0-60AB2B8A9886}|Algorithms\\MergeSort.csproj|e:\\projects\\algorithms\\algorithms-and-big-o-notation-c-\\algorithms\\algorithms\\mergesort.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{647BCCEE-0C08-4FE3-84B0-60AB2B8A9886}|Algorithms\\MergeSort.csproj|solutionrelative:algorithms\\mergesort.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BinarySearchImplementation.cs",
               "DocumentMoniker": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\BinarySearch\\BinarySearchImplementation.cs",
               "RelativeDocumentMoniker": "BinarySearch\\BinarySearchImplementation.cs",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\BinarySearch\\Program.cs",
               "RelativeDocumentMoniker": "BinarySearch\\Program.cs",
@@ -60,8 +60,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MergeSort",
+              "DocumentIndex": 0,
+              "Title": "MergeSort.csproj",
               "DocumentMoniker": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\Algorithms\\MergeSort.csproj",
               "RelativeDocumentMoniker": "Algorithms\\MergeSort.csproj",
               "ToolTip": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\Algorithms\\MergeSort.csproj",
@@ -73,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MergeSortImplementation.cs",
               "DocumentMoniker": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\Algorithms\\MergeSortImplementation.cs",
               "RelativeDocumentMoniker": "Algorithms\\MergeSortImplementation.cs",
@@ -86,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\Algorithms\\Program.cs",
               "RelativeDocumentMoniker": "Algorithms\\Program.cs",
