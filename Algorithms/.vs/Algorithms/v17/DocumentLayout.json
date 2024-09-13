@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90939097-A870-4E2A-BAD8-DF9217B2A3EB}|Fibonacci\\Fibonacci.csproj|e:\\projects\\algorithms\\algorithms-and-big-o-notation-c-\\algorithms\\fibonacci\\fibonaccirecursiveimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90939097-A870-4E2A-BAD8-DF9217B2A3EB}|Fibonacci\\Fibonacci.csproj|solutionrelative:fibonacci\\fibonaccirecursiveimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{90939097-A870-4E2A-BAD8-DF9217B2A3EB}|Fibonacci\\Fibonacci.csproj|e:\\projects\\algorithms\\algorithms-and-big-o-notation-c-\\algorithms\\fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90939097-A870-4E2A-BAD8-DF9217B2A3EB}|Fibonacci\\Fibonacci.csproj|solutionrelative:fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90939097-A870-4E2A-BAD8-DF9217B2A3EB}|Fibonacci\\Fibonacci.csproj|e:\\projects\\algorithms\\algorithms-and-big-o-notation-c-\\algorithms\\fibonacci\\fibonacciiterativeimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90939097-A870-4E2A-BAD8-DF9217B2A3EB}|Fibonacci\\Fibonacci.csproj|solutionrelative:fibonacci\\fibonacciiterativeimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90939097-A870-4E2A-BAD8-DF9217B2A3EB}|Fibonacci\\Fibonacci.csproj|e:\\projects\\algorithms\\algorithms-and-big-o-notation-c-\\algorithms\\fibonacci\\fibonaccirecursiveimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90939097-A870-4E2A-BAD8-DF9217B2A3EB}|Fibonacci\\Fibonacci.csproj|solutionrelative:fibonacci\\fibonaccirecursiveimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{647BCCEE-0C08-4FE3-84B0-60AB2B8A9886}|Algorithms\\MergeSort.csproj|e:\\projects\\algorithms\\algorithms-and-big-o-notation-c-\\algorithms\\algorithms\\mergesort.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -38,37 +42,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "FibonacciIterativeImplementation.cs",
+              "DocumentMoniker": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\Fibonacci\\FibonacciIterativeImplementation.cs",
+              "RelativeDocumentMoniker": "Fibonacci\\FibonacciIterativeImplementation.cs",
+              "ToolTip": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\Fibonacci\\FibonacciIterativeImplementation.cs",
+              "RelativeToolTip": "Fibonacci\\FibonacciIterativeImplementation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:46:10.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FibonacciRecursiveImplementation.cs",
               "DocumentMoniker": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\Fibonacci\\FibonacciRecursiveImplementation.cs",
               "RelativeDocumentMoniker": "Fibonacci\\FibonacciRecursiveImplementation.cs",
               "ToolTip": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\Fibonacci\\FibonacciRecursiveImplementation.cs",
               "RelativeToolTip": "Fibonacci\\FibonacciRecursiveImplementation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T06:07:49.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T06:07:49.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\Fibonacci\\Program.cs",
               "RelativeDocumentMoniker": "Fibonacci\\Program.cs",
               "ToolTip": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\Fibonacci\\Program.cs",
               "RelativeToolTip": "Fibonacci\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA7AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T06:06:32.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BinarySearchImplementation.cs",
               "DocumentMoniker": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\BinarySearch\\BinarySearchImplementation.cs",
               "RelativeDocumentMoniker": "BinarySearch\\BinarySearchImplementation.cs",
@@ -80,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\BinarySearch\\Program.cs",
               "RelativeDocumentMoniker": "BinarySearch\\Program.cs",
@@ -92,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MergeSort.csproj",
               "DocumentMoniker": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\Algorithms\\MergeSort.csproj",
               "RelativeDocumentMoniker": "Algorithms\\MergeSort.csproj",
@@ -100,12 +115,11 @@
               "RelativeToolTip": "Algorithms\\MergeSort.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-08T12:44:06.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T12:44:06.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MergeSortImplementation.cs",
               "DocumentMoniker": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\Algorithms\\MergeSortImplementation.cs",
               "RelativeDocumentMoniker": "Algorithms\\MergeSortImplementation.cs",
@@ -117,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\Algorithms\\Program.cs",
               "RelativeDocumentMoniker": "Algorithms\\Program.cs",
@@ -125,8 +139,7 @@
               "RelativeToolTip": "Algorithms\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T18:40:07.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T18:40:07.541Z"
             }
           ]
         }
