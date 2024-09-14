@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{90939097-A870-4E2A-BAD8-DF9217B2A3EB}|Fibonacci\\Fibonacci.csproj|e:\\projects\\algorithms\\algorithms-and-big-o-notation-c-\\algorithms\\fibonacci\\fibonaccibinetsimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90939097-A870-4E2A-BAD8-DF9217B2A3EB}|Fibonacci\\Fibonacci.csproj|solutionrelative:fibonacci\\fibonaccibinetsimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{90939097-A870-4E2A-BAD8-DF9217B2A3EB}|Fibonacci\\Fibonacci.csproj|e:\\projects\\algorithms\\algorithms-and-big-o-notation-c-\\algorithms\\fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90939097-A870-4E2A-BAD8-DF9217B2A3EB}|Fibonacci\\Fibonacci.csproj|solutionrelative:fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,11 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "FibonacciBinetsImplementation.cs",
+              "DocumentMoniker": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\Fibonacci\\FibonacciBinetsImplementation.cs",
+              "RelativeDocumentMoniker": "Fibonacci\\FibonacciBinetsImplementation.cs",
+              "ToolTip": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\Fibonacci\\FibonacciBinetsImplementation.cs",
+              "RelativeToolTip": "Fibonacci\\FibonacciBinetsImplementation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T15:47:02.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FibonacciIterativeImplementation.cs",
               "DocumentMoniker": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\Fibonacci\\FibonacciIterativeImplementation.cs",
               "RelativeDocumentMoniker": "Fibonacci\\FibonacciIterativeImplementation.cs",
@@ -58,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FibonacciRecursiveImplementation.cs",
               "DocumentMoniker": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\Fibonacci\\FibonacciRecursiveImplementation.cs",
               "RelativeDocumentMoniker": "Fibonacci\\FibonacciRecursiveImplementation.cs",
@@ -70,20 +87,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\Fibonacci\\Program.cs",
               "RelativeDocumentMoniker": "Fibonacci\\Program.cs",
               "ToolTip": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\Fibonacci\\Program.cs",
               "RelativeToolTip": "Fibonacci\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T06:06:32.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BinarySearchImplementation.cs",
               "DocumentMoniker": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\BinarySearch\\BinarySearchImplementation.cs",
               "RelativeDocumentMoniker": "BinarySearch\\BinarySearchImplementation.cs",
@@ -95,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\BinarySearch\\Program.cs",
               "RelativeDocumentMoniker": "BinarySearch\\Program.cs",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MergeSort.csproj",
               "DocumentMoniker": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\Algorithms\\MergeSort.csproj",
               "RelativeDocumentMoniker": "Algorithms\\MergeSort.csproj",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MergeSortImplementation.cs",
               "DocumentMoniker": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\Algorithms\\MergeSortImplementation.cs",
               "RelativeDocumentMoniker": "Algorithms\\MergeSortImplementation.cs",
@@ -131,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Projects\\Algorithms\\Algorithms-and-Big-O-notation-C-\\Algorithms\\Algorithms\\Program.cs",
               "RelativeDocumentMoniker": "Algorithms\\Program.cs",
@@ -139,7 +156,8 @@
               "RelativeToolTip": "Algorithms\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T18:40:07.541Z"
+              "WhenOpened": "2024-09-07T18:40:07.541Z",
+              "EditorCaption": ""
             }
           ]
         }
