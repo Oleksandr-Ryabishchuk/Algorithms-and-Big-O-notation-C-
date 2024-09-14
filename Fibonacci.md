@@ -29,6 +29,17 @@ The space complexity of this algorithm is N because the number of variables is s
       return a;
    }
 
-An iterative solution has a time complexity of N becouse it contains N iterations
+An iterative solution has a time complexity of N because it contains N iterations
 The space complexity of the iterative implementation is 1 because the number of variables does not grow with input N
+
+3. Fibonacci using Binet's formula
+   public static double Fibonacci(int input)
+   {
+       double phi = (1 + Math.Sqrt(5)) / 2;
+       double psi = (1 - Math.Sqrt(5)) / 2;
+         
+       return Math.Floor((Math.Pow(phi, input) - Math.Pow(psi, input)) / Math.Sqrt(5));
+   }
    
+The time complexity of Fibonacci calculated by Binet's formula is 1 because it uses constant time to account for exactly 1 time
+The space complexity is also 1 because only a few variables are used and they do not grow 
