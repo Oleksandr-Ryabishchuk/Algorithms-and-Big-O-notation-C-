@@ -1,0 +1,15 @@
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\Greedy\bin\Debug\net8.0\Greedy.exe
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\Greedy\bin\Debug\net8.0\Greedy.deps.json
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\Greedy\bin\Debug\net8.0\Greedy.runtimeconfig.json
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\Greedy\bin\Debug\net8.0\Greedy.dll
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\Greedy\bin\Debug\net8.0\Greedy.pdb
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\Greedy\obj\Debug\net8.0\Greedy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\Greedy\obj\Debug\net8.0\Greedy.AssemblyInfoInputs.cache
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\Greedy\obj\Debug\net8.0\Greedy.AssemblyInfo.cs
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\Greedy\obj\Debug\net8.0\Greedy.csproj.CoreCompileInputs.cache
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\Greedy\obj\Debug\net8.0\Greedy.sourcelink.json
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\Greedy\obj\Debug\net8.0\Greedy.dll
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\Greedy\obj\Debug\net8.0\refint\Greedy.dll
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\Greedy\obj\Debug\net8.0\Greedy.pdb
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\Greedy\obj\Debug\net8.0\Greedy.genruntimeconfig.cache
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\Greedy\obj\Debug\net8.0\ref\Greedy.dll
