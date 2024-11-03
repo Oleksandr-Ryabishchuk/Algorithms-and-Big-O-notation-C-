@@ -8,11 +8,11 @@ namespace Fibonacci
 {
     public static class FibonacciIterativeImplementation
     {
-        public static int Fibonacci(int input)
+        public static long Fibonacci(long input)
         {
-            int a = 0, b = 1, temp;
+            long a = 0, b = 1, temp;
 
-            for (int i = 0; i < input; i++)
+            for (long i = 0; i < input; i++)
             {
                 temp = a;
                 a = b;

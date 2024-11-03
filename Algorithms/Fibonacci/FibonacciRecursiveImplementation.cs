@@ -3,7 +3,7 @@ namespace Fibonacci
 {
     public static class FibonacciRecursiveImplementation
     {
-        public static int Fibonacci(int input)
+        public static long Fibonacci(int input)
         {
             if (input <= 2)
             {
